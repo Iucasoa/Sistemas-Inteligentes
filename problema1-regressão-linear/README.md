@@ -185,3 +185,14 @@ Há, no entanto, **limitações**: a leve curvatura nos resíduos sugere uma peq
 - Dataset: UCI Machine Learning Repository, *Combined Cycle Power Plant* (id 294), obtido via `ucimlrepo`.
 - Bibliotecas: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `statsmodels`, `ucimlrepo`.
 - Semente aleatória da divisão treino/teste: `random_state=42`.
+
+---
+
+## 11. Referências
+
+1. FACELI, K.; LORENA, A. C.; GAMA, J.; ALMEIDA, T. A.; CARVALHO, A. C. P. L. F. *Inteligência Artificial: Uma Abordagem de Aprendizado de Máquina*. LTC. **[PREENCHER: conferir edição e ano na bibliografia indicada pelo professor.]**
+2. COPPIN, B. *Artificial Intelligence Illuminated*. Jones & Bartlett. **[PREENCHER: conferir edição e ano na bibliografia indicada pelo professor.]**
+3. HOFMANN, H. *Statlog (German Credit Data)*. UCI Machine Learning Repository, 1994.
+4. Notebook de árvores de decisão da disciplina (`08_Tree.ipynb`, repositório `intelligent-systems`, Prof. Pedro Thiago Valério de Souza).
+
+
