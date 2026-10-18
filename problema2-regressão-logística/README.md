@@ -198,3 +198,14 @@ A AUC (0,95) é mais alta que a acurácia (0,83) porque a AUC avalia a qualidade
 - Dataset: UCI Machine Learning Repository, *Heart Disease* (id 45), obtido via `ucimlrepo`.
 - Bibliotecas: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `ucimlrepo`.
 - Semente aleatória: `random_state=42` (divisão treino/teste e modelo).
+
+---
+
+## 11. Referências
+
+1. FACELI, K.; LORENA, A. C.; GAMA, J.; ALMEIDA, T. A.; CARVALHO, A. C. P. L. F. *Inteligência Artificial: Uma Abordagem de Aprendizado de Máquina*. LTC. **[PREENCHER: conferir edição e ano na bibliografia indicada pelo professor.]**
+2. COPPIN, B. *Artificial Intelligence Illuminated*. Jones & Bartlett. **[PREENCHER: conferir edição e ano na bibliografia indicada pelo professor.]**
+3. HOFMANN, H. *Statlog (German Credit Data)*. UCI Machine Learning Repository, 1994.
+4. Notebook de árvores de decisão da disciplina (`08_Tree.ipynb`, repositório `intelligent-systems`, Prof. Pedro Thiago Valério de Souza).
+
+
